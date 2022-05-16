@@ -1,0 +1,1 @@
+const e={key:"v-643cbb89",path:"/extension/",title:"\u6269\u5C55",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u83DC\u5355\u6269\u5C55",slug:"\u83DC\u5355\u6269\u5C55",children:[]}],git:{updatedTime:1650198601e3,contributors:[{name:"clinfc",email:"1962109568@qq.com",commits:2}]},filePathRelative:"extension/README.md"};export{e as data};
